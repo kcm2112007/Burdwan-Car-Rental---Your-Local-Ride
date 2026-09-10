@@ -1,0 +1,12 @@
+{
+  "name": "Burdwan Car Rental",
+  "short_name": "Burdwan Car",
+  "description": "Your local ride — book local rentals, airport transfers, one-way, round-trip and outstation cabs.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F6F5F1",
+  "theme_color": "#1C1F22",
+  "icons": [
+    { "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%231C1F22'/%3E%3Cpath d='M14 40l4-12a6 6 0 0 1 5.7-4h16.6a6 6 0 0 1 5.7 4l4 12' stroke='%23D98B1E' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='22' cy='42' r='4' fill='%23D98B1E'/%3E%3Ccircle cx='42' cy='42' r='4' fill='%23D98B1E'/%3E%3C/svg%3E", "sizes": "64x64", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
