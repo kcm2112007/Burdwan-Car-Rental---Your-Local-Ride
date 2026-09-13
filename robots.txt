@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /#admin
+Disallow: /#account
+
+Sitemap: https://kcm2112007.github.io/Burdwan-Car-Rental---Your-Local-Ride/sitemap.xml
